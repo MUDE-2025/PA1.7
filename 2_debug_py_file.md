@@ -25,4 +25,8 @@
     - If you prefer to stop at the call site, place a breakpoint on `total += compute_ratio(10, v)` and set condition `v == 0`, then use F11 (Step Into).
   Note: If there is already a breakpoint, right-click and use 'Edit Breakpoint...'.
 3. Press F5. Execution pauses when `b` is 0. With exception breakpoints enabled, it also pauses on `ZeroDivisionError` even without a conditional.
-4. In Variables, confirm `a == 10`, `b == 0`. In Debug Console (in the bottom toolbar) you can debug expressions safely: try `a / (b or 1)` to probe safely.
+
+## Task 2.4 Adapt
+
+1. Adapt the code to handle division by zero gracefully, e.g., return 0 instead of raising an exception. While debugging, you can inspect the Variables, which allows you to confirm confirm `a == 10`, `b == 0` at some point. In the Debug Console (in the bottom toolbar) you can debug expressions safely: try `a / (b or 1)` to probe safely.
+2. Whenever you're happy with the code, stop debugging (Shift+F5), implement your changes and run the script normally (F5 or Run → Run Without Debugging) to see the output.
