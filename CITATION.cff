@@ -10,6 +10,8 @@ preferred-citation:
     given-names: Tom
   - family-names: Lee
     given-names: Kwangjin
+  - family-names: Ding
+    given-names: Jialei 
   - name: Delft University of Technology
   url: 'https://github.com/MUDE-2025/PA1.7' 
   title: 'MUDE assignment 2025-2026: PA 1.7'
