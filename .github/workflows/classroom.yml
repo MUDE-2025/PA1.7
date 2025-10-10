@@ -22,7 +22,7 @@ jobs:
       with:
         timeout: 10
         max-score: 10
-        setup-command: pip install numpy matplotlib pyyaml pytest
+        setup-command: pip install numpy pytest
     - name: Autograding Reporter
       uses: classroom-resources/autograding-grading-reporter@v1
       env:
