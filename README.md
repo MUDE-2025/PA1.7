@@ -2,7 +2,7 @@
 
 *Due: Friday, October 17, 2025.*
 
-You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.7/README.html. After the deadline, this link will include solutions. The preview of the assignment version is shared here: https://mude.citg.tudelft.nl/workbook-2025/no_solutions/assignments/PA1.7/README.html. This preview doesn't include a preview of the `.py` files. You can obtain your personal repository for submission on: https://classroom.github.com/a/x9GRXUJ2.
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.7/README.html. After the deadline, this link will include solutions. The preview of the assignment version is shared here: https://mude.citg.tudelft.nl/workbook-2025/no_solutions/assignments/PA1.7/README.html. You can obtain your personal repository for submission on: https://classroom.github.com/a/x9GRXUJ2.
 
 Debugging lets you pause execution, inspect variables, and step through your code to find and fix issues faster. In this assignment you'll set up VS Code for Python debugging, practice with a small script, and learn how to debug Jupyter Notebooks.
 
